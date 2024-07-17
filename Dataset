@@ -1,0 +1,11 @@
+Link del dataset: https://www.kaggle.com/datasets/antonixx/the-iqothnccd-lung-cancer-dataset/code
+Nombre del dataset: The IQ-OTHNCCD Lung Cancer Dataset
+Número total de archivos o imágenes: 1097
+Número total de directorios: 3
+Nombres de los directorios:
+1. Bengin cases
+Número total de casos Benignos: 120
+2. Malignant cases
+Número total de casos Malignos: 561
+3. Normal cases
+Número total de casos Normales o Sanos: 416
